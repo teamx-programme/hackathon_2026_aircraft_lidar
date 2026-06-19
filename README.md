@@ -17,7 +17,7 @@ The tool displays one flight track on a map. A section of the flight can be sele
 ## Tutorial
 
 #### Start the App:
-- Clone this repository.
+- Clone this repository or download the source code.
 - Load data of one flight into the data folder or specify the path in settings.ini.
 - (Optional) Adjust output paths in the settings.ini file.
 - Run python app.py from your console.
