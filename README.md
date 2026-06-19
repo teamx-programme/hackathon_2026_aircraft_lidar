@@ -54,3 +54,7 @@ The tool displays one flight track on a map. A section of the flight can be sele
 - Save and close.
 - Run app.py and proceed as described above.
 
+## License:
+See licence file.
+
+
