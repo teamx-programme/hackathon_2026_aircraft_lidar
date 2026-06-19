@@ -43,6 +43,7 @@ The tool displays one flight track on a map. A section of the flight can be sele
 - Click 'plot3d' if you want to display the selected flight section in 3D (CAUTION: only works if path to DEM for topography in settings.ini is specified!).
 - A new window opens. You can zoom in and rotate the figure to investigate the data in the flight section.
 - The figure is saved in the 'results' folder.
+  
 **The created figures should only be used as quicklooks and are not intended for publication!**
 
 #### Use other settings:
