@@ -4,7 +4,7 @@ Interactive tool to create quicklooks of AIRflows data (https://www.imktro.kit.e
 
 The tool displays one flight track on a map. A section of the flight can be selected, cut, saved and plotted without the need to understand the structure of the dataset. This tool enables visual selection instead of complicated indexing.
 
-## Dependecies
+## Dependencies
 - numpy
 - pandas
 - xarray
